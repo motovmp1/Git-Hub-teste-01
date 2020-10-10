@@ -12,7 +12,7 @@ namespace Aula98Git03
         {
             Console.WriteLine("Hello mundo");
             Console.WriteLine("Bom dia!");
-            //Console.WriteLine("Ola mundo 2");
+            Console.WriteLine("Ola mundo 2");
             Console.ReadKey();
 
         }
