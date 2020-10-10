@@ -11,7 +11,7 @@ namespace Aula98Git03
         static void Main(string[] args)
         {
             Console.WriteLine("Hello mundo");
-            //Console.WriteLine("Bom dia!");
+            Console.WriteLine("Bom dia!");
             //Console.WriteLine("Ola mundo 2");
             Console.ReadKey();
 
